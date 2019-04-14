@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fa6b3efa2b7a58c45b13bd4c18721f43
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _moveBoxPrefab: {fileID: 8660372714697573111, guid: 0b261f60ac7a6ed49832a6920525671a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
